@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511870182285",
+    "firebase_url": "https://tares-23f13.firebaseio.com",
+    "project_id": "tares-23f13",
+    "storage_bucket": "tares-23f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511870182285:android:c05d00ec1d51bac9",
+        "android_client_info": {
+          "package_name": "com.example.redes.tarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511870182285-8qtt7lffa6fn79j3af73nqn141r9n2m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redes.tarea",
+            "certificate_hash": "55136b0d511519e1177a34f31dc2ede9e3ff5ebb"
+          }
+        },
+        {
+          "client_id": "511870182285-pmqrcv4shmg2tegoup1b1rqg1hu01132.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOr31dfseK2UGTzOnTKPKxqfUskg3irTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511870182285-pmqrcv4shmg2tegoup1b1rqg1hu01132.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
